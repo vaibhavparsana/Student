@@ -49,7 +49,7 @@ public class Student
 
    /**
     * Get the value of name
-    * VVVVVVVVVVVVVVVVVVVVV testing
+    * VVVVVVVVVVVVVVVVVVVVV
     * @return the value of name
     */
    public String getName ()
