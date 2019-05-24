@@ -4,6 +4,6 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class Part
 {
-   privat int time;
+   private int time;
 
 }
